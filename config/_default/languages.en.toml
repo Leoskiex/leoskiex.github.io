@@ -1,0 +1,18 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "AureaGate Advisory: Poland & Europe Investment Insights"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+author = { name = "Leo Lin" }
+logo = ""
+secondaryLogo = "."
+description = "1"
+
+[author]
+links = []
