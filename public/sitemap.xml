@@ -4,19 +4,13 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-07T00:01:11+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/first/</loc>
-    <lastmod>2025-03-07T00:01:11+01:00</lastmod>
+    <lastmod>2025-03-06T18:11:34+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-07T00:01:11+01:00</lastmod>
+    <lastmod>2025-03-06T18:11:34+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -71,12 +65,6 @@
   <url>
     <loc>http://localhost:1313/posts/leapmotor99/</loc>
     <lastmod>2025-03-03T10:31:17+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/helloworld/</loc>
-    <lastmod>2023-03-25T17:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

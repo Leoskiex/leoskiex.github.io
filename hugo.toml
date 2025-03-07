@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+# 使用的主題
+theme = "blowfish"
+
+baseURL = 'https://aureagate.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'AureaGate Advisory: Poland & Europe Investment Insights'
