@@ -22,75 +22,85 @@ showScrollToTop = true
 
 [homepage]
 layout = "hero"
+homepageImage = "/img/background.jpg" # used in: hero, and card
 showRecent = true
-showRecentItems = 5
-showMoreLink = false
+showRecentItems = 12
+showMoreLink = true
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
 showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
-showHero = false
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
-showBreadcrumbs = false
+showBreadcrumbs = true
 showDraftLabel = true
 showEdit = false
-editAppendPath = true
-seriesOpened = false
+editAppendPath = false
+seriesOpened = true
 showHeadingAnchors = true
 showPagination = true
 invertPagination = false
 showReadingTime = true
-showTableOfContents = false
-showTaxonomies = false
-showAuthorsBadges = false
-showWordCount = true
+showTableOfContents = true
+showRelatedContent = true
+relatedContentLimit = 3
+showTaxonomies = true
+cardView = true
+showComments= true
+showAuthorsBadges = true
+showWordCount = false
+sharingLinks = ["bilibili", "twitter", "telegram", "email"]
 showZenMode = false
 
 [list]
-showHero = false
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = true
+layoutBackgroundHeaderSpace = false
 showBreadcrumbs = false
 showSummary = false
 showViews = false
 showLikes = false
-showTableOfContents = false
+showTableOfContents = true
 showCards = false
 orderByWeight = false
 groupByYear = true
-cardView = false
+cardView = true #true:单张格式 false:竖向格式
 cardViewScreenWidth = false
-constrainItemsWidth = false
+constrainItemsWidth = true
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = [  ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
-showBreadcrumbs = false
-showViews = false
-showLikes = false
-showTableOfContents = false
-cardView = false
-
-[term]
-showHero = false
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
 showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = true
-groupByYear = false
 cardView = false
+
+[term]
+showHero = true
+heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = true
+cardView = true
 cardViewScreenWidth = false
 
 [firebase]
@@ -106,3 +116,7 @@ cardViewScreenWidth = false
 [verification]
 
 [rssnext]
+
+#开启统计
+[busuanzi]
+   enable = true
