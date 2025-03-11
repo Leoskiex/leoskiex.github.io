@@ -17,13 +17,13 @@
 
 
 [[main]]
-name = "Main"
+name = "主頁"
 pageRef = "posts"
 weight = 10
 
 #[[main]]
-#name = "笔记"
-#pageRef = "笔记"
+#name = "筆記"
+#pageRef = "筆記"
 #weight = 15
 
 [[main]]
@@ -31,19 +31,15 @@ name = "全部"
 pageRef="all"
 weight = 20
 
-[[main]]
-name = "算法"
-pageRef = "algorithm"
-weight = 30
 
 [[main]]
-name = "归类"
+name = "分類"
 pageRef = "tags"
 weight = 32
 
 [[main]]
-name = "友链🧑‍🤝‍🧑"
-pageRef = "friend"
+name = "播客🎵"
+url = "/tags/播客/"
 weight = 40
 
 [[main]]
@@ -59,13 +55,13 @@ weight = 41
 [[main]]
 parent = "更多😺"
 pageRef = "music"
-name = "音乐🎵"
+name = "音樂🎵"
 weight = 42
 
 [[main]]
 parent = "更多😺"
-pageRef = "life-about"
-name = "生活相关🌿"
+pageRef = "life"
+name = "生活相關"
 weight = 42
 
 [[main]]

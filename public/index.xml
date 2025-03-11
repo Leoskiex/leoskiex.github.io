@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Leo Lin</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 21:36:22 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Mar 2025 12:37:29 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>「Buglo」傳奇：從車庫到歐洲兒童樂園霸主</title>
+      <link>http://localhost:1313/life/buglo/</link>
+      <pubDate>Tue, 11 Mar 2025 12:37:29 +0100</pubDate>
+      
+      <guid>http://localhost:1313/life/buglo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>波蘭創業傳奇：父親如何打造「Fikołki」兒童樂園帝國</title>
+      <link>http://localhost:1313/life/fikolki/</link>
+      <pubDate>Tue, 11 Mar 2025 11:07:45 +0100</pubDate>
+      
+      <guid>http://localhost:1313/life/fikolki/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>瑞典加入北约</title>
@@ -165,6 +185,16 @@
       <pubDate>Mon, 03 Mar 2025 10:31:17 +0100</pubDate>
       
       <guid>http://localhost:1313/posts/leapmotor99/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>全部</title>
+      <link>http://localhost:1313/all/</link>
+      <pubDate>Sat, 21 Oct 2023 20:52:20 +0800</pubDate>
+      
+      <guid>http://localhost:1313/all/</guid>
       <description></description>
       
     </item>

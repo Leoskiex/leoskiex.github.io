@@ -2,7 +2,7 @@
 date = '2025-03-08T11:02:51+01:00'
 draft = false
 title = '周末播客:馬克沃維奇,波蘭迷因之神 '
-tags = ['迷因','馬克沃維奇','水熊蟲','廚師']
+tags = ['迷因','馬克沃維奇','水熊蟲','廚師','播客']
 +++
 {{< spotify "https://open.spotify.com/embed/episode/1S4KSxjSVv05SHVzFm8qXm?utm_source=generator&theme=0" >}}
 
