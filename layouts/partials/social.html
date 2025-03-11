@@ -1,0 +1,11 @@
+<div class="social-icons">
+  {{ with site.Social.email }}
+    <a href="{{ . }}" target="_blank"><i class="fas fa-envelope"></i></a>
+  {{ end }}
+  {{ with site.Social.instagram }}
+    <a href="{{ . }}" target="_blank"><i class="fab fa-instagram"></i></a>
+  {{ end }}
+  {{ with site.Social.spotify }}
+    <a href="{{ . }}" target="_blank"><i class="fab fa-spotify"></i></a>
+  {{ end }}
+</div>

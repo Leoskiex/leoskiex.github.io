@@ -13,6 +13,8 @@ author = { name = "Leo Lin" , image = "img/profile.png",headline = "Leo 里歐 |
 logo = ""
 secondaryLogo = "."
 description = "1"
+
+
 bio = "專注於協助國際投資者探索波蘭歐洲市場的資深顧問。擁有多年策略規劃和財務分析經驗，擔任波蘭台灣商會會長，成功促進台波投資合作。我精通中、英語，致力於以跨文化視角為投資者提供量身打造的解決方案。"
 socialIcons = true
 
@@ -20,7 +22,6 @@ socialIcons = true
 email = "mailto:Llin@auragate.com"
 instagram = "https://www.instagram.com/poland_invest_asia/"
 spotify = "https://open.spotify.com/show/710CEq7E8UKTNQB951Ozrs"
-
 
 
 
