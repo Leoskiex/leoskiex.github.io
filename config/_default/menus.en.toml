@@ -33,7 +33,7 @@ weight = 20
 
 
 [[main]]
-name = "分類"
+name = "標籤"
 pageRef = "tags"
 weight = 32
 
@@ -43,20 +43,20 @@ url = "/tags/播客/"
 weight = 40
 
 [[main]]
-name = "更多😺"
+name = "更多"
 weight = 40
 
 [[main]]
-parent = "更多😺"
-name = "电影🎥"
-pageRef = "media"
+parent = "更多"
+name = "房地產"
+pageRef = "housing"
 weight = 41
 
-[[main]]
-parent = "更多😺"
-pageRef = "music"
-name = "音樂🎵"
-weight = 42
+#[[main]]
+#parent = "更多"
+#pageRef = "music"
+#name = "音樂🎵"
+#weight = 42
 
 [[main]]
 parent = "更多😺"
@@ -64,17 +64,17 @@ pageRef = "life"
 name = "生活相關"
 weight = 42
 
-[[main]]
-parent = "更多😺"
-pageRef = "笔记"
-name = "笔记(比较乱)🦐"
-weight = 43
+#[[main]]
+#parent = "更多"
+#pageRef = "笔记"
+#name = "笔记(比较乱)🦐"
+#weight = 43
 
-[[main]]
-parent = "更多😺"
-pageRef = "编程语言"
-name = "编程语言💻"
-weight = 44
+#[[main]]
+#parent = "更多"
+#pageRef = "编程语言"
+#name = "编程语言💻"
+#weight = 44
 
 
 #[[main]]
@@ -136,8 +136,8 @@ pageRef = "tags"
 weight = 10
 
 [[footer]]
-name = "关于我"
-pageRef = "info"
+name = "關於我"
+pageRef = "about"
 weight = 20
 
 [[footer]]
