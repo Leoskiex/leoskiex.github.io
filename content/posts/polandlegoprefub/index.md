@@ -2,7 +2,7 @@
 date = '2025-03-09T21:27:01+01:00'
 draft = false
 title = '樂高一樣建造住宅'
-tags = ['建築', '預製混凝土', 'Pekabex']
+tags = ['建築','預製混凝土','Pekabex','房地產']
 +++
 # Pekabex 如何像樂高一樣建造住宅  
 
