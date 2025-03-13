@@ -38,19 +38,24 @@ pageRef = "tags"
 weight = 32
 
 [[main]]
+name = "房地產"
+url = "/tags/房地產/"
+weight = 41
+
+[[main]]
 name = "播客🎵"
 url = "/tags/播客/"
 weight = 40
 
 [[main]]
-name = "更多"
+name = "法律"
+url = "/tags/法律/"
 weight = 40
 
 [[main]]
-parent = "更多"
-name = "房地產"
-pageRef = "housing"
-weight = 41
+name = "更多"
+weight = 44
+
 
 #[[main]]
 #parent = "更多"
@@ -59,7 +64,7 @@ weight = 41
 #weight = 42
 
 [[main]]
-parent = "更多😺"
+parent = "更多"
 pageRef = "life"
 name = "生活相關"
 weight = 42

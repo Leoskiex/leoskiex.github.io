@@ -1,3 +1,89 @@
+How to Write the Prompt
+The key is to build a customizable template that captures the writer’s unique style, sets the article’s length, and incorporates SEO requirements. Here’s the step-by-step approach:
+
+Specify the Word Count: Define how many words the article should have (e.g., "1000-word article").
+Name the Writer: Indicate whose style to emulate (e.g., "Mark Manson" or "Tim Ferriss").
+Define the Topic: State the subject of the article (e.g., "how to be more productive").
+Describe the Tone and Style: Capture the writer’s voice by specifying their tone (e.g., "direct, conversational" for Manson or "analytical, detailed" for Ferriss) and key stylistic elements (e.g., humor, anecdotes, or actionable steps).
+Outline the Structure: Provide guidance on how the article should be organized (e.g., a hook followed by main points or a problem-solution format).
+Include SEO Keywords: List the main keywords or direction and instruct where they should appear (e.g., title, headings, body).
+Here’s the general template:
+
+Write a [word count]-word article in the style of [writer's name], focusing on [topic]. Use a [tone description] tone and include [specific style elements]. Structure the article with [structure description]. The main SEO keywords are [keywords], and they should be included in the title, at least one heading, and naturally throughout the body.
+This template is adaptable to any writer, topic, or SEO focus. Let’s see it in action with examples.
+
+## Example 1: Mark Manson
+Mark Manson writes with a direct, conversational tone, often laced with humor and sarcasm. He uses personal anecdotes and isn’t afraid to voice controversial opinions. His articles typically focus on self-improvement or life advice and follow a structure with a strong hook, main points, and a punchy conclusion.
+
+Prompt:
+
+
+Write a 1000-word article in the style of Mark Manson, focusing on 'how to be more productive.' Use a direct, conversational tone with humor and casual language. Include personal anecdotes and controversial opinions. Structure the article with a compelling hook or story at the beginning, followed by the main points, and end with a call to action or a thought-provoking statement. The main SEO keywords are 'productivity tips' and 'time management,' and they should be included in the title, at least one heading, and naturally throughout the body.
+What This Does:
+
+Captures Manson’s no-nonsense, witty voice.
+Sets a clear 1000-word target.
+Ensures SEO optimization with "productivity tips" and "time management" woven into the article.
+
+## Example 2: Tim Ferriss
+Tim Ferriss is known for his analytical, detailed style, breaking down complex topics into actionable steps. He often includes data-driven insights and mentions tools or resources, targeting an entrepreneurial audience interested in productivity or lifestyle design.
+
+Prompt:
+
+
+Write a 1500-word article in the style of Tim Ferriss, focusing on 'how to start a meditation practice.' Use a detailed, analytical tone and include data-driven insights, specific tools or resources, and clear subheadings. Structure the article by starting with a problem statement, then provide a step-by-step solution, and conclude with additional resources or a summary. The main SEO keywords are 'meditation for beginners' and 'mindfulness techniques,' and they should be included in the title, at least one heading, and naturally throughout the body.
+What This Does:
+
+Reflects Ferriss’s methodical, practical approach.
+Specifies a 1500-word length.
+Integrates SEO keywords like "meditation for beginners" for search engine visibility.
+
+## Example 3: A Different Writer (e.g., Neil Gaiman)
+Let’s try a writer with a distinct style, like Neil Gaiman, known for whimsical, imaginative prose. This shows the template’s flexibility.
+
+Prompt:
+
+
+Write a 1200-word article in the style of Neil Gaiman, focusing on 'storytelling techniques.' Use a whimsical and imaginative tone and include vivid descriptions and metaphors. Structure the article with a mysterious opening, followed by practical tips, and end with an inspiring message. The main SEO keywords are 'storytelling tips' and 'creative writing,' and they should be included in the title, at least one heading, and naturally throughout the body.
+What This Does:
+
+Matches Gaiman’s dreamy, narrative-driven style.
+Sets a 1200-word goal.
+Optimizes for SEO with "storytelling tips" and "creative writing."
+
+
+## Tips for Customization
+Research the Writer: Identify their tone (e.g., sarcastic, formal), recurring elements (e.g., stories, stats), and typical structure. For instance, Malcolm Gladwell might require a "narrative-driven tone with surprising facts."
+Adjust Word Count: Swap in any number (e.g., 800, 2000) based on your needs.
+SEO Flexibility: Use specific keywords (e.g., "weight loss") or a broader direction (e.g., "fitness trends").
+Optional Additions: If desired, add a target audience (e.g., "for young professionals") before the topic.
+
+
+Final Template Recap
+
+
+## Here’s the reusable prompt one more time:
+
+
+Write a [word count]-word article in the style of [writer's name], focusing on [topic]. Use a [tone description] tone and include [specific style elements]. Structure the article with [structure description]. The main SEO keywords are [keywords], and they should be included in the title, at least one heading, and naturally throughout the body.
+With this, you can generate an article mimicking any writer’s style, tailored to your chosen word count and SEO goals. Just plug in the details, and you’re set!
+
+
+1. **內容要求**：
+   - 分析並理解我提供的文章或連結（例如：[插入具體連結]）。
+   - 
+   - 用中文撰寫，確保內容流暢且符合中文讀者習慣。
+   - 提供深入的洞察，並在結尾包含個人反思（如「你能學什麼？」）。
+
+2. **格式要求**：
+   - 使用Markdown格式，並以以下結構呈現：
+
+   - 確保Markdown語法正確（如#、##、連結格式[文字](URL)），方便直接複製。
+
+3
+
+
+
 你喜歡的風格作者清單
 Mark Manson (直白、粗俗、人生哲理)
 語氣隨意帶粗話，冷靜剖析人生，實用又帶點憤世嫉俗。
