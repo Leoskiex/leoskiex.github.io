@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>戰爭 on AureaGate Advisory: Poland &amp; Europe Investment Insights</title>
+    <link>http://localhost:1313/tags/%E6%88%B0%E7%88%AD/</link>
+    <description>Recent content in 戰爭 on AureaGate Advisory: Poland &amp; Europe Investment Insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Leo Lin</copyright>
+    <lastBuildDate>Fri, 07 Mar 2025 15:38:26 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%88%B0%E7%88%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>生存背包</title>
+      <link>http://localhost:1313/posts/backpackv1/</link>
+      <pubDate>Fri, 07 Mar 2025 15:38:26 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/backpackv1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>戰爭與商業</title>
+      <link>http://localhost:1313/posts/wareconomy/</link>
+      <pubDate>Thu, 06 Mar 2025 18:11:34 +0100</pubDate>
+      
+      <guid>http://localhost:1313/posts/wareconomy/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
