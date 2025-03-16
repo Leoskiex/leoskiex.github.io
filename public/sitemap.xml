@@ -15,8 +15,68 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/wroclaw-1997-flooding/wroclaw-1997-flooding/</loc>
+    <lastmod>2025-03-16T12:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-16T10:44:30+01:00</lastmod>
+    <lastmod>2025-03-16T12:45:45+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%95%B8%E4%BD%8D%E5%8C%96/</loc>
+    <lastmod>2025-03-16T12:45:45+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%AD%90%E7%9B%9F/</loc>
+    <lastmod>2025-03-16T12:45:45+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/eu-digital-vat/</loc>
+    <lastmod>2025-03-16T12:45:45+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E9%9B%BB%E5%AD%90%E7%99%BC%E7%A5%A8/</loc>
+    <lastmod>2025-03-16T12:45:45+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/mis7ultraeurope/</loc>
+    <lastmod>2025-03-16T11:30:42+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E5%B0%8F%E7%B1%B3/</loc>
+    <lastmod>2025-03-16T11:30:42+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%8A%95%E8%B3%87%E6%A9%9F%E6%9C%83/</loc>
+    <lastmod>2025-03-16T11:30:42+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%AD%90%E6%B4%B2%E5%B8%82%E5%A0%B4/</loc>
+    <lastmod>2025-03-16T11:30:42+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E9%9B%BB%E5%8B%95%E8%BB%8A/</loc>
+    <lastmod>2025-03-16T11:30:42+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -58,12 +118,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/%E7%87%83%E6%B2%B9%E8%BB%8A/</loc>
-    <lastmod>2025-03-15T15:47:18+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E9%9B%BB%E5%8B%95%E8%BB%8A/</loc>
     <lastmod>2025-03-15T15:47:18+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
