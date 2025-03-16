@@ -1,12 +1,11 @@
 ---
 title: "1997年弗羅茨瓦夫千年洪水 - 歷史、影響與重建"
-date: '2025-03-16T12:46:58+01:00'
-
+date: '2025-03-16T17:46:58+01:00'
 showRelatedContent: false
 draft: false
+tags : ['洪水', '弗羅茨瓦夫', '1997年', '重建', '播客']
 ---
-
-{{</* fullwidth */>}}
+{{< spotify "https://open.spotify.com/embed/episode/6K0MS7aKJsnsB5vouqoFGo?utm_source=generator&theme=0" >}}
   {{<raw>}}
 <!DOCTYPE html>
 <html lang="zh-Hant" class="scroll-smooth">

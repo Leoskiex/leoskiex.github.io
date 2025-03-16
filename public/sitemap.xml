@@ -3,26 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <loc>http://localhost:1313/tags/1997%E5%B9%B4/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/wroclaw-1997-flooding/wroclaw-1997-flooding/</loc>
-    <lastmod>2025-03-16T12:46:58+01:00</lastmod>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-03-16T12:45:45+01:00</lastmod>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E5%BC%97%E7%BE%85%E8%8C%A8%E7%93%A6%E5%A4%AB/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%92%AD%E5%AE%A2/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%B4%AA%E6%B0%B4/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E9%87%8D%E5%BB%BA/</loc>
+    <lastmod>2025-03-16T17:46:58+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E4%BB%80%E5%9C%96%E6%89%98%E6%B2%83/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%88%BF%E5%9C%B0%E7%94%A2/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%A0%BC%E4%BD%86%E6%96%AF%E5%85%8B/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%B3%A2%E8%98%AD/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/3-beautiful-polish-city-new-developments/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E8%8F%AF%E6%B2%99/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E8%B1%AA%E5%AE%85%E9%A0%85%E7%9B%AE/</loc>
+    <lastmod>2025-03-16T15:46:10+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%8A%95%E8%B3%87/</loc>
+    <lastmod>2025-03-16T15:45:19+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E6%AD%90%E6%B4%B2%E5%B8%82%E5%A0%B4/</loc>
+    <lastmod>2025-03-16T15:45:19+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/poland-manufacturing-neweurope-focus/</loc>
+    <lastmod>2025-03-16T15:45:19+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/%E8%A3%BD%E9%80%A0%E6%A5%AD/</loc>
+    <lastmod>2025-03-16T15:45:19+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -69,12 +165,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/%E6%AD%90%E6%B4%B2%E5%B8%82%E5%A0%B4/</loc>
-    <lastmod>2025-03-16T11:30:42+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/%E9%9B%BB%E5%8B%95%E8%BB%8A/</loc>
     <lastmod>2025-03-16T11:30:42+01:00</lastmod>
     <changefreq>daily</changefreq>
@@ -88,18 +178,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/%E5%AF%B5%E7%89%A9%E7%B6%93%E6%BF%9F/</loc>
-    <lastmod>2025-03-16T10:44:30+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E6%8A%95%E8%B3%87/</loc>
-    <lastmod>2025-03-16T10:44:30+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E6%B3%A2%E8%98%AD/</loc>
     <lastmod>2025-03-16T10:44:30+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -250,12 +328,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/%E5%85%AC%E5%AF%93%E7%A8%85%E6%94%B6/</loc>
-    <lastmod>2025-03-14T08:32:02+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E6%88%BF%E5%9C%B0%E7%94%A2/</loc>
     <lastmod>2025-03-14T08:32:02+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -568,12 +640,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/%E5%BB%9A%E5%B8%AB/</loc>
-    <lastmod>2025-03-08T11:02:51+01:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/%E6%92%AD%E5%AE%A2/</loc>
     <lastmod>2025-03-08T11:02:51+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
