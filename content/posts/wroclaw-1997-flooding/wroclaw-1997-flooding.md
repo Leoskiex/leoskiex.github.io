@@ -521,7 +521,7 @@ tags : ['洪水', '弗羅茨瓦夫', '1997年', '重建', '播客']
                 </div>
             </div>
             <div class="mt-8 pt-8 border-t border-gray-700 text-center text-gray-400">
-                <p>© 2025 弗羅茨瓦夫千年洪水紀念專題 | 設計：<a href="#" class="hover:text-white transition-colors">災難記憶保存協會</a></p>
+                <p>© 2025 弗羅茨瓦夫千年洪水紀念專題 | 設計：<a href="#" class="hover:text-white transition-colors">瑞格投資諮詢有限公司</a></p>
             </div>
         </div>
     </footer>
