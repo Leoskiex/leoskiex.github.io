@@ -1,48 +1,10 @@
-/* custom.css */
-
-/* Main content container */
-.content-container {
-  width: 80%;
+.container {
+  max-width: 100% !important;
+  width: 100% !important;
   margin-left: auto;
   margin-right: auto;
 }
 
-/* For full-width sections that are inside normal containers */
-.full-width-section {
-  width: 80%;
-  max-width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* If you're using Hugo's built-in content classes */
-.content, 
-.post-content, 
-.page-content, 
-article.post,
-.post-container {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* For markdown content */
-.markdown {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-/* Responsive behavior for smaller screens */
-@media (max-width: 768px) {
-  .content-container,
-  .full-width-section,
-  .content,
-  .post-content,
-  .page-content,
-  article.post,
-  .post-container,
-  .markdown {
-    width: 95%;
-  }
+.content {
+  max-width: 100% !important;
 }
