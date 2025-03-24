@@ -1,11 +1,11 @@
-+++
-date = '2025-03-23T15:57:33+01:00'
-draft = false
-title = '波蘭大蒜進口市場分析報告'
-tags = ['大蒜','進口','波蘭','歐洲','報告']
-layout = "simple"
-
-+++  
+---
+title: "波蘭大蒜進口市場分析報告"
+date: '2025-03-23T15:57:33+01:00'
+showRelatedContent: false
+draft: false
+layout: "simple"
+tags : ['大蒜', '進口', '波蘭', '歐洲', '報告']
+---
 
 {{<raw>}}
 
