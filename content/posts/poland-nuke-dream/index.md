@@ -39,8 +39,7 @@ tags = ['波蘭', '核武', '東歐', '投資']
 
 波蘭真能造核彈嗎？專家說，沒幾十年不行。但這不是重點。重點是特朗普這一鬧，讓波蘭開始重新定義自己。對亞洲投資者，這是個機會：一個準備翻身的國家，可能帶來爆炸性回報。對亞洲家庭，這是個提醒：東歐的穩定不再理所當然。
 
-想知道細節？看看這篇[原始報導](https://wiadomosci.onet.pl/swiat/donald-trump-zasial-panike-polska-potrzebowalaby-dziesiecioleci/8z1v8e8)，聽聽波蘭人自己的聲音。SEO關鍵字「波蘭核武」和「特朗普影響」已經嵌進故事，等著被搜出來。
-
+想知道細節？看看這篇[原始報導](https://wiadomosci.onet.pl/swiat/donald-trump-zasial-panike-polska-potrzebowalaby-dziesiecioleci/8z1v8e8)，聽聽波蘭人自己的聲音。
 ### 你能學到什麼？
 
 波蘭這場核武風波告訴我們，世界變得太快，連安穩的日子都可能一夜翻盤。對亞洲外國投資者來說，下次看地圖時，别只盯著倫敦或巴黎，波蘭這種「邊緣玩家」可能藏著大驚喜。你敢不敢賭一把，搭上這列核武列車？
