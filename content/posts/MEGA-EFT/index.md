@@ -9,7 +9,7 @@ tags = ['歐洲','軍火','ETF', '投資','地緣政治']
 
 戰爭是地獄。除非你剛好持有那些製造炸彈、坦克和導彈公司的股票。那麼，戰爭可能……還挺賺錢的。聽起來很操蛋，但這就是現實。現在，市場上最火的玩意兒之一就是**European defence stocks**（歐洲軍火股），而美國的Wisdom Tree公司瞅準時機，在三月份推出了全球首個專門投資這玩意兒的ETF（交易所交易基金）——**Wisdom Tree European Defence UCITS ETF (DEFN)**。結果呢？兩週內，投資者就往裡面砸了5億歐元。
 
-![Tank production line](https://images.unsplash.com/photo-1619410283995-43d9134e7656?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) *Image source: Unsplash*
+![defence stock](https://static.aureagate.com/defence%20ETF.png) 
 
 這世界是怎麼了？
 

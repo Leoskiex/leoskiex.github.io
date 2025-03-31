@@ -11,7 +11,7 @@ tags = ['基金', '投資']
 
 而這頭「雪人」背後的獵手之一，就是西爾韋斯特·賈尼克（Sylwester Janik）和他創立的基金——Cogito Capital Partners。這哥們可不是什麼愣頭青，他在金融這渾水裡泡了快三十年了。
 
-![Sylwester Janik](https://bi.im-g.pl/im/9e/a0/1c/z29980318Q.jpg) *Image source: Materialy Prasowe (via forbes.pl)*
+
 
 ## 三十年磨一劍，他不想再玩早期了
 
