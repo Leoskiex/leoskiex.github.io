@@ -1,9 +1,9 @@
 ---
 title: "020425 播客新聞"
-date: '2025-04-02T14:57:41+01:00'
+date: '2025-04-02T15:02:56+01:00'
 showRelatedContent: false
 draft: false
-tags : ['台灣', '播客']
+tags : ['播客']
 ---
 {{< spotify "https://open.spotify.com/embed/episode/18QMFZt4d7GDq9CwD58pHw?utm_source=generator&theme=0" >}}
 
