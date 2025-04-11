@@ -1,5 +1,5 @@
 ---
-title: "110425 播客新聞"
+title: "110425 今日瑞格快訊"
 date: '2025-04-11T12:10:30+02:00'
 showRelatedContent: false
 draft: false
