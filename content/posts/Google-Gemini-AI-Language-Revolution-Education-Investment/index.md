@@ -1,5 +1,5 @@
 +++
-date = '2025-05-01T15:15:00+02:00'
+date = '2025-05-01T11:15:00+02:00'
 draft = false
 title = 'AI 語言學習的未來：Google Gemini 如何改變教育市場？'
 tags = ['AI 語言學習', 'Google Gemini', '教育科技']
