@@ -1,8 +1,8 @@
 +++
-date = "2025-05-01T17:15:00+02:00"
+date = '2025-05-01T17:15:00+02:00'
 draft = false
-title = "Ray Dalio 的警告：如何在全球經濟變局中投資"
-tags = ["全球經濟", "Ray Dalio"]
+title = 'Ray Dalio 的警告：如何在全球經濟變局中投資'
+tags = ['全球經濟', 'Ray Dalio']
 +++
 
 # Ray Dalio 的警告：如何在全球經濟變局中投資
