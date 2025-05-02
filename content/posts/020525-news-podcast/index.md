@@ -1,6 +1,6 @@
 ---
 title: "02/05/2025 瑞閣快訊"
-date : '2025-05-02T010:07:07+01:00'
+date : '2025-05-02T08:07:07+01:00'
 showRelatedContent: false
 draft: false
 tags : ['播客','快訊']
