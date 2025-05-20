@@ -11,6 +11,27 @@ tags = ['歐盟擴張', '波蘭經濟', '區域整合']
 
 ## 經濟與市場影響
 
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">12%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">10%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">8%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">6%</text>
+  <text x="30" y="290" font-size="12" text-anchor="end">4%</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Export Growth (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">Pre-EU Expansion</text>
+  <text x="300" y="370" font-size="12" text-anchor="middle">Post-EU Expansion</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Period</text>
+  <rect x="100" y="230" width="100" height="120" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="250" y="110" width="100" height="240" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Poland Export Growth (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Poland Export Growth: Pre- and Post-EU Expansion, 2026</text>
+</svg>
+
 挪威與冰島的加入將擴大歐盟市場至5.5億人口，GDP增加10% [EU Market Expansion](https://forsal.pl/gospodarka/artykuly/9797376,rozszerzenie-ue-norwegia-islandia-wzrost-pkb-2026.html)。波蘭作為中東歐物流樞紐，預計出口增長8-10%，特別在海產與能源設備領域 [Export Growth Forecast](https://www.parkiet.com/eksport/art42303826-polska-eksport-wzrost-8-10-proc-po-rozszerzeniu-ue)。如下圖所示，加入後波蘭出口增長將顯著加速。然而，外資流入可能因監管收緊下降10%，影響短期市場信心 [FDI Impact](https://bithub.pl/gospodarka/fdi-w-polsce-spadek-o-10-proc-2025/)。
 
 波蘭的製造與物流企業，如Stocznia Gdańsk，預計收入增長12%，但需應對勞動成本上升5% [Labor Cost Increase](https://www.gazetaprawna.pl/praca/artykuly/9800428,koszty-pracy-w-polsce-wzrost-2025.html)。
@@ -20,42 +41,6 @@ tags = ['歐盟擴張', '波蘭經濟', '區域整合']
 *Gdzie dwóch się bije, tam trzeci korzysta*（兩人相爭，第三者得利）。英國可能因歐盟擴張加速脫歐談判，影響波蘭的金融服務出口 [Brexit Negotiations](https://www.rp.pl/polityka/art42309507-brexit-nowe-rozmowy-po-rozszerzeniu-ue)。投資者需警惕市場波動率上升至12% [Market Volatility](https://forsal.pl/rynki/artykuly/9797377,wzrost-volatilnosci-rynku-po-rozszerzeniu-ue.html)。
 
 
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Pre-EU Expansion", "Post-EU Expansion"],
-    "datasets": [{
-      "label": "Poland Export Growth (%)",
-      "data": [5, 10],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4"],
-      "borderColor": ["#FF4C4C", "#3AB8B0"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Export Growth (%)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "Poland Export Growth: Pre- and Post-EU Expansion, 2026"
-      }
-    }
-  }
-}
-{{< /chart >}}
 
 ## 投資建議與時間框架
 

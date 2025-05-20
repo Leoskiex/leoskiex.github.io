@@ -15,6 +15,27 @@ tags = ['波蘭捷克', '中東歐經濟', '投資機遇', '區域整合']
 
 投資者可關注斯柯達與Orlen等企業，預期回報率9-12% [Skoda-Orlen Outlook](https://www.gazetaprawna.pl/biznes/artykuly/9800436,skoda-orlen-liderami-wspolpracy-2025.html)。然而，融資成本上升5%與勞動法規差異可能增加運營挑戰 [Financing Costs](https://www.rp.pl/finanse/art42309525-wzrost-kosztow-finansowania-wspolpracy-2025)。
 
+
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">8%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">6%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">4%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">2%</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Growth (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">Automotive</text>
+  <text x="300" y="370" font-size="12" text-anchor="middle">Energy</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Sector</text>
+  <rect x="100" y="110" width="100" height="240" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="250" y="170" width="100" height="180" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Sector Growth (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Sector Growth: Poland-Czech Cooperation, 2025</text>
+</svg>
+
 ## 風險與挑戰
 
 *Nie wszystko złoto, co się świeci*（不是所有閃光的都是金子）。地緣政治風險可能影響合作穩定性，投資者需警惕波動率達10% [Geopolitical Risks](https://forsal.pl/polityka/artykuly/9797392,ryzyko-geopolityczne-wspolpracy-polsko-czeskiej.html)。勞動

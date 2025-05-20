@@ -12,41 +12,7 @@ tags = ['日本關廠', '供應鏈風險', '投資機會', '汽車產業']
 ## 關廠的市場影響
 
 某日本汽車企業因成本壓力與需求下滑，計劃關閉一座歷史悠久的工廠 []。這導致其股價下跌10%，供應鏈波及波蘭的汽車零部件企業 []。如下圖所示，韓國與中國供應商市場份額預計增長10%，填補日本留下的空缺。波蘭2024年汽車出口達200億歐元，關廠可能減少5%訂單。
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Japan", "Korea", "China"],
-    "datasets": [{
-      "label": "Market Share Shift (%)",
-      "data": [-10, 10, 10],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4", "#45B7D1"],
-      "borderColor": ["#FF4C4C", "#3AB8B0", "#3399B2"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "title": {
-          "display": true,
-          "text": "Market Share Shift (%)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "Supplier Market Share Shifts Post-Japan Factory Closures, 2025"
-      }
-    }
-  }
-}
-{{< /chart >}}
+
 ## 投資建議與時間框架
 
 **短期（1-3個月）**：減持日本汽車股票，轉向韓國供應商，預期回報率6%。  

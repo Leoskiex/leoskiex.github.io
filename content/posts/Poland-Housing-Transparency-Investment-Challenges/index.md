@@ -19,42 +19,26 @@ tags = ['透明化', '房地產', '政策影響']
 
 *Czas to pieniądz*（時間就是金錢）。短期內，市場適應新政可能導致交易量下降10%，流動性受限 [Transaction Volume Drop](https://www.rp.pl/nieruchomosci/art42309511-spadek-obrotu-mieszkaniami-2025)。投資者需警惕融資成本上升5%，影響槓桿投資 [Financing Costs](https://forsal.pl/finanse/artykuly/9797382,wzrost-kosztow-finansowania-nieruchomosci-2025.html)。
 
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Pre-Policy (2024)", "Post-Policy (2025)"],
-    "datasets": [{
-      "label": "Housing Price Growth (%)",
-      "data": [6, 4],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4"],
-      "borderColor": ["#FF4C4C", "#3AB8B0"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Price Growth (%)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "Poland Housing Price Growth: Pre- and Post-Transparency Policy"
-      }
-    }
-  }
-}
-{{< /chart >}}
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">8%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">6%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">4%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">2%</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Price Growth (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">Pre-Policy (2024)</text>
+  <text x="300" y="370" font-size="12" text-anchor="middle">Post-Policy (2025)</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Period</text>
+  <rect x="100" y="110" width="100" height="240" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="250" y="170" width="100" height="180" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Housing Price Growth (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Poland Housing Price Growth: Pre- and Post-Transparency Policy</text>
+</svg>
+
 
 ## 投資建議與時間框架
 

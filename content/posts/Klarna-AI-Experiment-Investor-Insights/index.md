@@ -18,42 +18,27 @@ Klarna導入OpenAI技術，縮減客服與行銷團隊，成本下降20% [Cost R
 ## 風險與挑戰
 
 *Nie wszystko złoto, co się świeci*（不是所有閃光的都是金子）。AI的品質問題可能影響客戶信任，短期內增加成本 [AI Quality Challenges](https://ithardware.pl/aktualnosci/ai-w-finansach-problemy-jakosci-41926.html)。歐盟的AI監管可能推高合規成本5% [EU AI Compliance](https://www.rp.pl/prawo/art42309519-ue-koszty-zgodnosci-ai-2025)。
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Cost Savings", "Rehiring Costs"],
-    "datasets": [{
-      "label": "Financial Impact (%)",
-      "data": [20, 5],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4"],
-      "borderColor": ["#FF4C4C", "#3AB8B0"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Impact (%)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "Klarna’s AI Experiment: Cost Savings vs. Rehiring Costs, 2025"
-      }
-    }
-  }
-}
-{{< /chart >}}
+
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">20%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">15%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">10%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">5%</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Impact (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">Cost Savings</text>
+  <text x="300" y="370" font-size="12" text-anchor="middle">Rehiring Costs</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Metric</text>
+  <rect x="100" y="50" width="100" height="300" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="250" y="230" width="100" height="120" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Financial Impact (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Klarna’s AI Experiment: Cost Savings vs. Rehiring Costs, 2025</text>
+</svg>
+
 ## 投資建議與時間框架
 
 **短期（1-3個月）**：觀望Klarna與同類公司，優先投資穩定AI應用企業，預期回報率6%。  

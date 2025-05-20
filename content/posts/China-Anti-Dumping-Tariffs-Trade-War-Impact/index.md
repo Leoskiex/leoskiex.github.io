@@ -15,6 +15,30 @@ tags = ['反傾銷關稅', '貿易戰', '塑膠產業', '投資風險']
 
 然而，亂局中藏有機會。中國本土塑膠企業如中石化可能因進口替代獲益，預計市場份額提升15% [China Market Share](https://forsal.pl/biznes/artykuly/9797379,sinopec-zyskuje-na-clach-2025.html)。東南亞與印度塑膠製造商也可能填補空缺，成為投資新焦點 [Emerging Markets](https://bithub.pl/rynek/plastik-w-azji-poludniowo-wschodniej-2025/)。
 
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">8%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">6%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">4%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">2%</text>
+  <text x="30" y="290" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Profit Margin Decline (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">US</text>
+  <text x="250" y="370" font-size="12" text-anchor="middle">EU</text>
+  <text x="350" y="370" font-size="12" text-anchor="middle">Japan</text>
+  <text x="450" y="370" font-size="12" text-anchor="middle">Taiwan</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Region</text>
+  <rect x="100" y="50" width="100" height="300" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="200" y="80" width="100" height="270" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="300" y="140" width="100" height="210" fill="#45B7D1" stroke="#3399B2" stroke-width="1"/>
+  <rect x="400" y="170" width="100" height="180" fill="#96CEB4" stroke="#78B296" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Profit Margin Decline (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Profit Margin Impact of Anti-Dumping Tariffs, 2025</text>
+</svg>
+
 ## 風險與挑戰
 
 貿易戰從不溫和。關稅可能引發報復性措施，美國與歐盟正醞釀對中國電動車加徵關稅 [US-EU Retaliation](https://www.gazetaprawna.pl/magazyn-na-weekend/artykuly/9800424,oko-cyklonu-przyjety-przez-trumpa-kurs-na-deeskalacje-wojny-handlowej.html)。地緣政治緊張加劇，波蘭企業需應對供應鏈重組成本，預計增加7-10% [Supply Chain Costs](https://www.rp.pl/logistyka/art42309509-reorganizacja-lancuchow-dostaw-koszty-2025)。投資者需警惕全球塑膠價格波動率上升，2025年預計達15% [Price Volatility](https://forsal.pl/rynki/artykuly/9797380,wzrost-cen-plastikow-2025.html)。

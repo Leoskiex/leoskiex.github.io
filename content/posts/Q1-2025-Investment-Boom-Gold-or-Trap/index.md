@@ -11,6 +11,29 @@ tags = ['投資熱潮', '波蘭經濟', '商業地產', '市場風險']
 
 ## 市場熱潮的驅動力
 
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">10%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">8%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">6%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">4%</text>
+  <text x="30" y="290" font-size="12" text-anchor="end">2%</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Return Rate (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">Warehousing</text>
+  <text x="300" y="370" font-size="12" text-anchor="middle">Retail</text>
+  <text x="450" y="370" font-size="12" text-anchor="middle">Offices</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Property Type</text>
+  <rect x="100" y="80" width="100" height="270" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="250" y="110" width="100" height="240" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="400" y="140" width="100" height="210" fill="#45B7D1" stroke="#3399B2" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Average Return Rate (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Commercial Real Estate Returns, Q1 2025</text>
+</svg>
+
 波蘭2024年GDP增長3.5%，商業地產與科技初創成為焦點 [GDP Growth Report](https://forsal.pl/gospodarka/artykuly/9797374,wzrost-pkb-polski-2024-3-5-proc.html)。華沙的倉儲與零售地產租賃率上升15%，平均回報率達7-9% [Real Estate Returns](https://www.rp.pl/nieruchomosci/art42309505-warszawa-rynek-nieruchomosci-wzrost-wynajmu-2025)。如下圖所示，倉儲地產的回報率領先，顯示物流需求的強勁增長。科技初創融資額達10億歐元，AI與綠能項目尤為搶眼 [Startup Financing](https://bithub.pl/startupy/polska-technologia-10-mld-eur-w-2024/)。然而，市場過熱隱藏風險，特別是融資成本上升5% [Financing Cost Increase](https://www.gazetaprawna.pl/biznes/artykuly/9800427,koszty-finansowania-w-polsce-wzrost-2025.html)。
 
 ## 風險與挑戰
@@ -36,40 +59,3 @@ tags = ['投資熱潮', '波蘭經濟', '商業地產', '市場風險']
 - **字面與引申意義**：字面指不冒險無法享受成功果實，引申為鼓勵合理風險。  
 - **文化背景**：在波蘭常用於激勵商業決策。  
 - **主題關聯**：投資熱潮需冒險把握機遇，但需謹慎評估。
-
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Warehousing", "Retail", "Offices"],
-    "datasets": [{
-      "label": "Average Return Rate (%)",
-      "data": [9, 8, 7],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4", "#45B7D1"],
-      "borderColor": ["#FF4C4C", "#3AB8B0", "#3399B2"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Return Rate (%)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "Commercial Real Estate Returns, Q1 2025"
-      }
-    }
-  }
-}
-{{< /chart >}}

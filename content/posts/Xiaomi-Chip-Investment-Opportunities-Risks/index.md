@@ -15,42 +15,31 @@ Xring O1 的規格令人矚目：CPU包含1個3.2GHz X925核心、3個2.6GHz A72
 
 從市場角度看，小米自研晶片可降低對高通的依賴，節省約20-30%的晶片成本，長期提升毛利率。根據Counterpoint Research，小米2024年Q1全球智慧手機市占率達14.33%，位列第三。如下圖所示，小米與三星、蘋果、Oppo的市場份額差距正在縮小，顯示其競爭潛力。若晶片表現穩定，小米可進一步滲透中高端市場，挑戰三星與蘋果。然而，投資者需警惕，晶片研發成本高昂，小米2023年研發支出已達26.4億美元，同比增長19.2%，短期內可能壓縮利潤。
 
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Xiaomi", "Samsung", "Apple", "Oppo"],
-    "datasets": [{
-      "label": "2024 Q1 Market Share (%)",
-      "data": [14.33, 20.8, 17.3, 8.7],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4", "#45B7D1", "#96CEB4"],
-      "borderColor": ["#FF4C4C", "#3AB8B0", "#3399B2", "#78B296"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Market Share (%)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "Global Smartphone Market Share, Q1 2024"
-      }
-    }
-  }
-}
-{{< /chart >}}
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">25%</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">20%</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">15%</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">10%</text>
+  <text x="30" y="290" font-size="12" text-anchor="end">5%</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0%</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Market Share (%)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="150" y="370" font-size="12" text-anchor="middle">Xiaomi</text>
+  <text x="250" y="370" font-size="12" text-anchor="middle">Samsung</text>
+  <text x="350" y="370" font-size="12" text-anchor="middle">Apple</text>
+  <text x="450" y="370" font-size="12" text-anchor="middle">Oppo</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Brand</text>
+  <rect x="100" y="184" width="100" height="166" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="200" y="126" width="100" height="224" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="300" y="164" width="100" height="186" fill="#45B7D1" stroke="#3399B2" stroke-width="1"/>
+  <rect x="400" y="236" width="100" height="114" fill="#96CEB4" stroke="#78B296" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">2024 Q1 Market Share (%)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">Global Smartphone Market Share, Q1 2024</text>
+</svg>
+
 
 ## 競爭風險與地緣政治挑戰
 

@@ -13,42 +13,33 @@ tags = ['ETS2排放稅', '能源成本', '綠色轉型']
 
 ETS2計劃要求對建築與交通的碳排放徵稅，預計2027年實施 [ETS2 Delay Proposal](https://warszawawpigulce.pl/kto-zostawi-w-domu-zaplaci-gigantyczny-podatek-to-nawet-kilkanascie-tysiecy-zlotych-rocznie/). 如下圖所示，波蘭家庭的供暖成本可能年增24,018茲羅提，企業能源支出上升20% [Energy Price Forecast](https://forsal.pl/finanse/twoje-pieniadze/artykuly/9797371,dlugoterminowa-prognoza-cenowa-benzyna-1161-zll-olej-napedowy-1176-zll-lpg-782-zll-gaz-65869-zlmwh-wegiel-6392-zlt-koszt-ogrzewania-dla-przecietnej-polskiej-rodziny-wzrosnie-o-24-018-zl-.html). 煤炭依賴度高的波蘭（2024年占發電70%）首當其衝，電價預計上漲15%。
 
-{{< chart >}}
-{
-  "type": "bar",
-  "data": {
-    "labels": ["Petrol", "Diesel", "LPG", "Gas", "Coal"],
-    "datasets": [{
-      "label": "Projected Cost Increase (PLN)",
-      "data": [1161, 1176, 782, 65869, 6392],
-      "backgroundColor": ["#FF6B6B", "#4ECDC4", "#45B7D1", "#96CEB4", "#FFCC99"],
-      "borderColor": ["#FF4C4C", "#3AB8B0", "#3399B2", "#78B296", "#FFB266"],
-      "borderWidth": 1
-    }]
-  },
-  "options": {
-    "scales": {
-      "y": {
-        "beginAtZero": true,
-        "title": {
-          "display": true,
-          "text": "Cost Increase (PLN)"
-        }
-      }
-    },
-    "plugins": {
-      "legend": {
-        "display": true,
-        "position": "top"
-      },
-      "title": {
-        "display": true,
-        "text": "ETS2 Emissions Tax: Energy Cost Increases, 2027"
-      }
-    }
-  }
-}
-{{< /chart >}}
+
+<svg width="600" height="400" viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="600" height="400" fill="#fff"/>
+  <line x1="50" y1="50" x2="50" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="30" y="50" font-size="12" text-anchor="end">70000 PLN</text>
+  <text x="30" y="110" font-size="12" text-anchor="end">50000 PLN</text>
+  <text x="30" y="170" font-size="12" text-anchor="end">30000 PLN</text>
+  <text x="30" y="230" font-size="12" text-anchor="end">10000 PLN</text>
+  <text x="30" y="350" font-size="12" text-anchor="end">0 PLN</text>
+  <text x="20" y="200" font-size="14" text-anchor="middle" transform="rotate(-90 20 200)">Cost Increase (PLN)</text>
+  <line x1="50" y1="350" x2="550" y2="350" stroke="#000" stroke-width="2"/>
+  <text x="100" y="370" font-size="12" text-anchor="middle">Petrol</text>
+  <text x="200" y="370" font-size="12" text-anchor="middle">Diesel</text>
+  <text x="300" y="370" font-size="12" text-anchor="middle">LPG</text>
+  <text x="400" y="370" font-size="12" text-anchor="middle">Gas</text>
+  <text x="500" y="370" font-size="12" text-anchor="middle">Coal</text>
+  <text x="300" y="390" font-size="14" text-anchor="middle">Fuel Type</text>
+  <rect x="70" y="340" width="60" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <rect x="170" y="339" width="60" height="11" fill="#4ECDC4" stroke="#3AB8B0" stroke-width="1"/>
+  <rect x="270" y="347" width="60" height="3" fill="#45B7D1" stroke="#3399B2" stroke-width="1"/>
+  <rect x="370" y="50" width="60" height="300" fill="#96CEB4" stroke="#78B296" stroke-width="1"/>
+  <rect x="470" y="310" width="60" height="40" fill="#FFCC99" stroke="#FFB266" stroke-width="1"/>
+  <rect x="250" y="20" width="20" height="10" fill="#FF6B6B" stroke="#FF4C4C" stroke-width="1"/>
+  <text x="280" y="28" font-size="12">Projected Cost Increase (PLN)</text>
+  <text x="300" y="30" font-size="16" text-anchor="middle">ETS2 Emissions Tax: Energy Cost Increases, 2027</text>
+</svg>
+
 
 這對能源密集型產業（如鋼鐵、製造）構成挑戰，利潤率可能下降5-7%。然而，政策也刺激再生能源投資，波蘭2025年風能與太陽能項目融資預計增長30%。
 
