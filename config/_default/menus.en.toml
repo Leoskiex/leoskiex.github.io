@@ -18,7 +18,7 @@
 
 [[main]]
 name = "主頁"
-pageRef = "posts"
+pageRef = "all"
 weight = 10
 
 #[[main]]
@@ -27,8 +27,8 @@ weight = 10
 #weight = 15
 
 [[main]]
-name = "全部"
-pageRef="all"
+name = "金融分析"
+pageRef="analysis"
 weight = 20
 
 
