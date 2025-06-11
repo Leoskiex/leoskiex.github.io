@@ -1,12 +1,13 @@
 ---
 title: '穩定幣、DeFi 與 Web3 資金遷移：現況、挑戰與 Genius 法案'
-date : '2025-06-11T11:58:00+02:00'
+date : '2025-06-11T16:00:00+02:00'
 showRelatedContent: false
 draft: false
 tags : ['播客','金融分析','DeFi','Web3','穩定幣','Genius法案']
 ---
-{{< spotify "https://open.spotify.com/embed/episode/2uDSkbySA4gJEwVBkMEnNt?utm_source=generator&theme=0" >}}
+{{< spotify "https://open.spotify.com/embed/episode/2gtl9m8e2dqqzXRCov7qxi?utm_source=generator&theme=0" >}}
 
+**播客提供靈感與洞察，文章則有詳細數據，建議同步閱讀與聆聽以全面掌握。**
 
 # 穩定幣、DeFi 與 Web3 資金遷移：現況、挑戰與 Genius 法案
 
