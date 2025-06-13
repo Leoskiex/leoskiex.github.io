@@ -28,7 +28,7 @@ weight = 10
 
 [[main]]
 name = "金融分析"
-pageRef="analysis"
+pageRef="/tags/金融分析"
 weight = 20
 
 
