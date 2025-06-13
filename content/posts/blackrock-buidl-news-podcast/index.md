@@ -1,9 +1,9 @@
 ---
 title: '瑞閣快訊 黑石 BUIDL 基金深度解析與家族辦公室應用 '
 date : '2025-06-13T11:58:00+02:00'
-showRelatedContent: false
+showRelatedContent: false  
 draft: false
-tags : ['播客','快訊']
+tags : ['播客','快訊', '金融分析', 'BUIDL']
 ---
 {{< spotify "https://open.spotify.com/embed/episode/69NaUc0LlvgvyPPxK9WAQg?utm_source=generator&theme=0" >}}
 
