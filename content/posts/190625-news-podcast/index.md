@@ -1,5 +1,5 @@
 ---
-title: '19/06/2025 波蘭經濟：移工、半導體與出口多元化洞察
+title: '19/06/2025 波蘭經濟：移工、半導體與出口多元化洞察'
 date : '2025-06-19T11:58:00+02:00'
 showRelatedContent: false
 draft: false
