@@ -2,7 +2,7 @@
 title: '03/07/2025 AI 播客 波蘭的冰與火之歌：當晶片夢想撞上電費惡夢'
 date : '2025-07-03T00:04:00+02:00'
 showRelatedContent: false
-draft: false
+draft: true
 tags : ['播客','快訊']
 ---
 {{< spotify "https://open.spotify.com/embed/episode/0Fid0aTGCBAL1UGY4h1ufH?utm_source=generator&theme=0" >}}
