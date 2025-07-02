@@ -1,6 +1,6 @@
 ---
 title: '02/07/2025 AI 播客 波蘭的冰與火：工業寒冬對決國防熱潮，誰是贏家？'
-date : '2025-07-02T00:00:00+02:00'
+date : '2025-07-02T00:04:00+02:00'
 showRelatedContent: false
 draft: false
 tags : ['播客','快訊']
