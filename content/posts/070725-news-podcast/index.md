@@ -1,6 +1,6 @@
 ---
 title: '07/07/2025 AI 播客 歐洲警鐘：德國再軍備與台海的全球連動'
-date : '2025-07-07T00:07:00+02:00'
+date : '2025-07-07T00:04:00+02:00'
 showRelatedContent: false
 draft: false
 tags : ['播客','快訊']
