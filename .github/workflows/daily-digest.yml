@@ -1,0 +1,36 @@
+name: Generate Daily Digest
+
+on:
+  schedule:
+    - cron: "0 5 * * *"  # Run daily at 5:00 UTC
+  workflow_dispatch:      # Allow manual runs too
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.125.0'  # Or your version
+
+      - name: Generate today's digest
+        run: ./generate_digest.sh
+
+      - name: Commit & push new digest
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@github.com"
+          git add content/digest/
+          git commit -m "Add daily digest for $(date +%F)" || echo "No changes"
+          git push
+
+      - name: Build and deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.DEPLOY_KEY }}
+          publish_dir: ./public
