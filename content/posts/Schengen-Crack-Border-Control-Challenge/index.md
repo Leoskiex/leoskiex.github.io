@@ -11,7 +11,7 @@ tags = ['申根區', '邊境管控', '波蘭', '地緣政治']
 
 ## 邊境的回歸
 
-波蘭卡車司機Janek曾經自豪地駕車穿越德國邊境，無需停留。如今，他卻面臨檢查站的長龍。根據 [波蘭新聞報導](https://www.google.com/url?sa=E&q=https://next.gazeta.pl/next/7,168930,32087129,kontrole-graniczne-poczatek-konca-schengen.html)，邊境管控的恢復讓波蘭的出口經濟承壓，特別是對德國的汽車零部件貿易。與此同時，波蘭城市對德國的措施提出抗議，甚至計畫向歐盟投訴。
+波蘭卡車司機Janek曾經自豪地駕車穿越德國邊境，無需停留。如今，他卻面臨檢查站的長龍。根據 [波蘭新聞報導](https://next.gazeta.pl/next/7,168930,32087129,kontrole-graniczne-poczatek-konca-schengen.html)，邊境管控的恢復讓波蘭的出口經濟承壓，特別是對德國的汽車零部件貿易。與此同時，波蘭城市對德國的措施提出抗議，甚至計畫向歐盟投訴。
 
 波蘭俚語「Gdzie diabeł nie może, tam babę pośle」（魔鬼做不到的地方，派個女人去）在此頗具深意。波蘭或許能在歐盟內部扮演靈活的調解角色，尋找自由與安全的平衡點。
 

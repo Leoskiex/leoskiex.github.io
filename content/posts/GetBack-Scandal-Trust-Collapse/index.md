@@ -11,7 +11,7 @@ tags = ['GetBack', '金融醜聞', '投資者', '監管失敗']
 
 ## 騙局的誕生
 
-GetBack以高收益債券吸引投資者，承諾年回報率高達8%。Anna這樣的普通人，將養老金投入其中，相信這是安全的選擇。然而，根據 [波蘭財經報導](https://www.google.com/url?sa=E&q=https://www.money.pl/gospodarka/wielka-afera-ponad-9-tys-pokrzywdzonych-nik-ujawnia-ustalenia-7176049334279008a.html)，GetBack的財務報表充斥著虛假數據，監管機構未能及時介入。前總理Morawiecki被指未能有效監督，引發公眾憤怒。
+GetBack以高收益債券吸引投資者，承諾年回報率高達8%。Anna這樣的普通人，將養老金投入其中，相信這是安全的選擇。然而，根據 [波蘭財經報導](https://www.money.pl/gospodarka/wielka-afera-ponad-9-tys-pokrzywdzonych-nik-ujawnia-ustalenia-7176049334279008a.html)，GetBack的財務報表充斥著虛假數據，監管機構未能及時介入。前總理Morawiecki被指未能有效監督，引發公眾憤怒。
 
 波蘭俚語「Nie wszystko złoto, co się świeci」（閃光的不全是黃金）在此顯得格外諷刺。GetBack的光鮮外表掩蓋了財務黑洞，投資者的信任被無情踐踏。
 

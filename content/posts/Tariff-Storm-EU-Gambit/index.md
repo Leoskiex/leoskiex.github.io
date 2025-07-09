@@ -11,7 +11,7 @@ tags = ['貿易戰', '歐盟', '特朗普', '地緣政治']
 
 ## 貿易戰的棋局
 
-特朗普的策略簡單而直接：以關稅威脅迫使歐盟讓步。根據 [波蘭財經報導](https://www.google.com/url?sa=E&q=https://www.money.pl/gospodarka/kiedy-trump-wysle-pismo-do-ue-ws-cel-podal-date-traktuja-nas-teraz-bardzo-milo-7176164454546272a.html)，他宣稱歐盟「現在對我們很好」，卻不忘設定談判期限。歐盟則由德國財政部長帶頭回應：「我們不會全盤接受。」這場博弈中，波蘭作為歐盟成員，面臨出口經濟的潛在衝擊，特別是汽車與航空零部件產業。
+特朗普的策略簡單而直接：以關稅威脅迫使歐盟讓步。根據 [波蘭財經報導](https://www.money.pl/gospodarka/kiedy-trump-wysle-pismo-do-ue-ws-cel-podal-date-traktuja-nas-teraz-bardzo-milo-7176164454546272a.html)，他宣稱歐盟「現在對我們很好」，卻不忘設定談判期限。歐盟則由德國財政部長帶頭回應：「我們不會全盤接受。」這場博弈中，波蘭作為歐盟成員，面臨出口經濟的潛在衝擊，特別是汽車與航空零部件產業。
 
 波蘭俚語「Kto nie ryzykuje, ten nie pije szampana」（不冒險，喝不到香檳）在此顯得格外貼切。歐盟必須在保護主義與全球化理想間尋找平衡，冒險談判可能帶來經濟紅利，也可能引發更大損失。
 

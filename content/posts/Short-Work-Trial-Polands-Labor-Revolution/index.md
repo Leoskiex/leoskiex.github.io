@@ -11,7 +11,7 @@ tags = ['短時工作', '波蘭', '勞動文化', '生產力']
 
 ## 工作的重塑
 
-根據 [波蘭勞動報導](https://www.google.com/url?sa=E&q=https://radiokielce.pl/1317479/czeka-nas-rewolucja-na-rynku-pilotaz-skroconego-czasu-pracy/)，短時工作提高了Bartek的幸福感，但企業擔心成本上升。試驗的結果可能影響未來的勞動法規。
+根據 [波蘭勞動報導](https://radiokielce.pl/1317479/czeka-nas-rewolucja-na-rynku-pilotaz-skroconego-czasu-pracy/), 短時工作提高了Bartek的幸福感，但企業擔心成本上升。試驗的結果可能影響未來的勞動法規。
 
 波蘭俚語「Małe kroki prowadzą do wielkich celów」（小步走向大目標）在此頗具啟發。短時工作是通往更好生活的第一步。
 

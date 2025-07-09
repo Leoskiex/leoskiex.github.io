@@ -11,7 +11,7 @@ tags = ['社會住宅', '波蘭', '住房政策', '經濟福利']
 
 ## 家的重建
 
-根據 [波蘭住房報導](https://www.google.com/url?sa=E&q=https://www.administrator24.info/artykul/z-ostatniej-chwili/282094,2-5-mld-zl-na-budowe-mieszkan-komunalnych)，新政策將加快公寓建設，並允許25年後購買產權。Agnieszka希望為孩子提供一個安全之家，結束租房的漂泊。
+根據 [波蘭住房報導](https://www.administrator24.info/artykul/z-ostatniej-chwili/282094,2-5-mld-zl-na-budowe-mieszkan-komunalnych)，新政策將加快公寓建設，並允許25年後購買產權。Agnieszka希望為孩子提供一個安全之家，結束租房的漂泊。
 
 波蘭俚語「Dom na skale, nie na piasku」（房子建在岩石上，不在沙地上）在此振奮人心。穩固的住房政策是家庭幸福的基石。
 

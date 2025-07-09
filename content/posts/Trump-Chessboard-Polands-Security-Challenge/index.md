@@ -11,7 +11,7 @@ tags = ['特朗普', '烏克蘭', '北約', '波蘭']
 
 ## 不確定的盟友
 
-特朗普的政策如同一場賭局。他在 [波蘭媒體報導](https://www.google.com/url?sa=E&q=https://niezalezna.pl/swiat/bedziemy-musieli-wysylac-wiecej-broni-szczegolnie-defensywnej-trump-zapowiada-konkretna-pomoc-ukrainie/547214) 中承諾更多軍援，卻也暗示可能要求北約成員增加防務開支。對波蘭來說，這意味著更高的國防預算與不確定的盟友支持。俄烏衝突的陰影下，波蘭民眾對安全的渴望前所未有。
+特朗普的政策如同一場賭局。他在 [波蘭媒體報導](https://niezalezna.pl/swiat/bedziemy-musieli-wysylac-wiecej-broni-szczegolnie-defensywnej-trump-zapowiada-konkretna-pomoc-ukrainie/547214) 中承諾更多軍援，卻也暗示可能要求北約成員增加防務開支。對波蘭來說，這意味著更高的國防預算與不確定的盟友支持。俄烏衝突的陰影下，波蘭民眾對安全的渴望前所未有。
 
 波蘭俚語「Lepszy wróbel w garści niż gołąb na dachu」（手裡的麻雀勝過屋頂的鴿子）在此顯得沉重。波蘭必須在特朗普的不確定性與自身安全需求間尋找穩妥的策略。
 

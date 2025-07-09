@@ -11,7 +11,7 @@ tags = ['暴風雨', '波蘭', '農業', '保險']
 
 ## 風暴的來襲
 
-根據 [波蘭氣象報導](https://www.google.com/url?sa=E&q=https://www.polsatnews.pl/wiadomosc/2025-07-08/potezne-burze-przejda-nad-polska-pilny-alert-rcb/)，強烈暴風雨可能摧毀農作物與房屋。Piotr加固穀倉，但仍擔心洪水與停電。保險公司開始評估理賠壓力，農民與居民的焦慮與日俱增。
+根據 [波蘭氣象報導](https://www.polsatnews.pl/wiadomosc/2025-07-08/potezne-burze-przejda-nad-polska-pilny-alert-rcb/)，強烈暴風雨可能摧毀農作物與房屋。Piotr加固穀倉，但仍擔心洪水與停電。保險公司開始評估理賠壓力，農民與居民的焦慮與日俱增。
 
 波蘭俚語「Jak sobie pościelesz, tak się wyśpisz」（床鋪好了才能睡好）在此顯得真切。充分的準備是應對天災的關鍵。
 

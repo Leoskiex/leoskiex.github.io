@@ -11,7 +11,7 @@ tags = ['Orlen', 'AI', '能源轉型', '波蘭經濟']
 
 ## 技術的躍進
 
-根據 [波蘭商業報導](https://www.google.com/url?sa=E&q=https://www.money.pl/gospodarka/orlen-i-microsoft-polaczyly-sily-panstwowy-gigant-chce-rewolucji-7176116772797312a.html)，Orlen利用AI優化生產與物流，可能大幅提升效率。Karolina的團隊開發的系統能預測市場需求，降低成本。這是波蘭能源的新篇章。
+根據 [波蘭商業報導](https://www.money.pl/gospodarka/orlen-i-microsoft-polaczyly-sily-panstwowy-gigant-chce-rewolucji-7176116772797312a.html)，Orlen利用AI優化生產與物流，可能大幅提升效率。Karolina的團隊開發的系統能預測市場需求，降低成本。這是波蘭能源的新篇章。
 
 波蘭俚語「Kto nie idzie do przodu, ten się cofa」（不前進就後退）在此振聾發聵。Orlen的創新是對未來的投資。
 

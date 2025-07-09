@@ -11,7 +11,7 @@ tags = ['AI', '教育', '波蘭學生']
 
 ## 技術的雙刃劍
 
-根據 [波蘭教育報導](https://www.google.com/url?sa=E&q=https://www.wprost.pl/edukacja/12066802/co-zrobic-by-technologia-nie-wyreczala-ucznia-niepokojacy-raport.html)，AI工具讓學生更有效率，但也可能削弱批判性思維。Kasia的作業雖然完美，卻缺乏她的獨特視角。教育界開始反思：如何讓AI成為助力而非替代？
+根據 [波蘭教育報導](https://www.wprost.pl/edukacja/12066802/co-zrobic-by-technologia-nie-wyreczala-ucznia-niepokojacy-raport.html)，AI工具讓學生更有效率，但也可能削弱批判性思維。Kasia的作業雖然完美，卻缺乏她的獨特視角。教育界開始反思：如何讓AI成為助力而非替代？
 
 波蘭俚語「Nie ucz ojca dzieci robić」（別教父親怎麼生孩子）在此頗具深意。AI或許能輔助學習，但教育的核心仍需人類智慧。
 

@@ -11,7 +11,7 @@ tags = ['汽車行業', '綠色轉型', '波蘭經濟', '就業危機']
 
 ## 轉型的代價
 
-歐盟的電動車目標與嚴格排放標準迫使車廠加速轉型。根據 [波蘭行業報導](https://www.google.com/url?sa=E&q=https://forsal.pl/praca/artykuly/9836423,klopoty-branzy-motoryzacyjnej-unii-europejskie-grozi-utrata-miliona-m.html)，波蘭作為汽車零部件中心，面臨裁員與工廠關閉風險。Tomasz的工廠產量下滑，未來充滿不確定性。
+歐盟的電動車目標與嚴格排放標準迫使車廠加速轉型。根據 [波蘭行業報導](https://forsal.pl/praca/artykuly/9836423,klopoty-branzy-motoryzacyjnej-unii-europejskie-grozi-utrata-miliona-m.html)，波蘭作為汽車零部件中心，面臨裁員與工廠關閉風險。Tomasz的工廠產量下滑，未來充滿不確定性。
 
 波蘭俚語「Nie ma róży bez kolców」（沒有不帶刺的玫瑰）在此顯得貼切。綠色轉型帶來環境紅利，卻也刺傷了工人與社區。
 

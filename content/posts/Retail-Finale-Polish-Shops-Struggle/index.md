@@ -11,7 +11,7 @@ tags = ['零售業', '波蘭經濟', '消費趨勢']
 
 ## 小店的沒落
 
-根據 [波蘭商業報導](https://www.google.com/url?sa=E&q=https://www.money.pl/gospodarka/ponad-10-dziennie-sklepy-znikaja-z-rynku-co-sie-dzieje-7175992939260800a.html)，小型零售店因電商衝擊與消費習慣改變而萎縮。Ewa的店面租金高漲，顧客卻轉向線上購物。與此同時，蔬菜店與二手店的增長反映了新消費趨勢。
+根據 [波蘭商業報導](https://www.money.pl/gospodarka/ponad-10-dziennie-sklepy-znikaja-z-rynku-co-sie-dzieje-7175992939260800a.html)，小型零售店因電商衝擊與消費習慣改變而萎縮。Ewa的店面租金高漲，顧客卻轉向線上購物。與此同時，蔬菜店與二手店的增長反映了新消費趨勢。
 
 波蘭俚語「Kto rano wstaje, temu Pan Bóg daje」（早起者得上帝恩賜）在此頗具啟發。Ewa必須迅速適應市場變化，才能找到新的生機。
 

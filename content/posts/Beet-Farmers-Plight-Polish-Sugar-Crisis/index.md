@@ -11,7 +11,7 @@ tags = ['糖業', '農業危機', '農民', '經濟困境']
 
 ## 農民的掙扎
 
-Maria每天清晨檢查甜菜田，卻聽到糖廠可能關閉的消息。根據 [波蘭農業報導](https://www.google.com/url?sa=E&q=https://www.farmer.pl/produkcja-roslinna/okopowe/kryzys-na-rynku-cukru-plantatorzy-buraka-ostrzegaja-przed-zapascia-i-zamykaniem-cukrowni,163468.html)，糖價下跌與進口競爭讓農民陷入困境。Maria的收入難以覆蓋成本，數千農戶面臨類似命運。
+Maria每天清晨檢查甜菜田，卻聽到糖廠可能關閉的消息。根據 [波蘭農業報導](https://www.farmer.pl/produkcja-roslinna/okopowe/kryzys-na-rynku-cukru-plantatorzy-buraka-ostrzegaja-przed-zapascia-i-zamykaniem-cukrowni,163468.html)，糖價下跌與進口競爭讓農民陷入困境。Maria的收入難以覆蓋成本，數千農戶面臨類似命運。
 
 波蘭俚語「Kto sieje wiatr, ten zbiera burzę」（種風者收穫風暴）在此顯得沉重。政策與市場的失誤，帶來了農民的「風暴」。
 
