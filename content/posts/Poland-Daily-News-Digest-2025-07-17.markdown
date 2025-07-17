@@ -1,8 +1,8 @@
 +++
 date = '2025-07-17T12:37:00+02:00'
 draft = false
-title = 'Poland Daily News Digest 2025-07-17'
-tags = ['poland', 'news', 'daily-digest', 'current-affairs']
+title = '波蘭每日新聞摘要：2025年7月17日'
+tags = ['波蘭', '新聞', '每日摘要', '當前事務']
 +++
 
 # 波蘭每日新聞摘要：2025年7月17日
