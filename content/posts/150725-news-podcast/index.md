@@ -5,7 +5,7 @@ showRelatedContent: false
 draft: false
 tags : ['播客','快訊']
 ---
-{{< spotify "https://open.spotify.com/embed/episode/7bkvysW9rL9ZX9UmNHUEQR?utm_source=generator&theme=0" >}}
+{{< spotify "https://open.spotify.com/embed/episode/49Vly4VTYEW4RVqk1Fw45b?utm_source=generator&theme=0" >}}
 
 
 ### Podcast 標題與簡介
