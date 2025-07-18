@@ -21,7 +21,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "custom_homepage"
 homepageImage = "/img/background.jpg" # used in: hero, and card
 showRecent = true
 showRecentItems = 12

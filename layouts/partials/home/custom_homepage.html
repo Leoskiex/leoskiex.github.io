@@ -1,0 +1,22 @@
+{{/* layouts/partials/home/custom_homepage.html */}}
+
+<div class="mt-12">
+  <h2 class="text-3xl font-bold text-neutral-800 dark:text-neutral-200">每日摘要與 Podcast</h2>
+  
+  {{/* 篩選出 "daily-summary" 和 "podcast" 這兩個分類的文章 */}}
+  {{ $pages := where .Site.RegularPages "Params.categories" "intersect" (slice "每日摘要" "Podcast") }}
+  
+  {{/* 檢查是否有篩選到文章 */}}
+  {{ if gt (len $pages) 0 }}
+    <section class="mt-8 space-y-10 w-full">
+      {{ range $pages }}
+        {{/* 這裡使用 simple.html 樣式來顯示文章連結，您也可以改成 card.html */}}
+        {{ partial "article-link/simple.html" . }}
+      {{ end }}
+    </section>
+  {{ else }}
+    <section class="mt-8">
+      <p><em>目前沒有每日摘要或 Podcast。</em></p>
+    </section>
+  {{ end }}
+</div>
