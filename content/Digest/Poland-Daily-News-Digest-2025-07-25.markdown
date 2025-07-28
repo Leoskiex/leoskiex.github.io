@@ -1,12 +1,12 @@
 +++
 date = '2025-07-25T12:33:00+02:00'
 draft = false
-title = 'Poland Daily News Digest: July 25, 2025'
+title = '波蘭每日新聞摘要：2025年7月25日'
 categories = ["每日摘要"]
 tags = ['地緣政治', '能源', '科技', '稅收', '軍事']
 +++
 
-# Poland Daily News Digest: July 25, 2025
+# 波蘭每日新聞摘要：2025年7月25日
 
 ## 引子
 在波羅的海的晨霧中，俄羅斯戰艦的陰影籠罩波蘭海岸，而海底的油氣資源正點燃一場國際爭奪戰。從印度的秘密交易到美國的AI豪賭，波蘭站在地緣政治與經濟的十字路口。這些新聞如何串聯起全球信任的裂痕？立即收聽<a href="https://aureagate.com/posts/250725-news-podcast/">Poland News Podcast: July 2025</a>，揭開背後的故事！
