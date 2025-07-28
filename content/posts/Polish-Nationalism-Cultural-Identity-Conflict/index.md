@@ -2,7 +2,7 @@
 # 基本元數據
 title = "波蘭民族主義：文化爭議中的身份之戰"
 date = "2025-07-27T23:58:55+02:00"
-tags = ["波蘭民族主義", "文化爭議", "身份認同", "Wrocław "抗議"]
+tags = ["波蘭民族主義", "文化爭議", "身份認同", "Wrocław", "抗議"]
 summary = "波蘭民族主義者在弗羅茨瓦夫抗議「德國化」，引發文化與身份之爭。本文探討這場爭議背後的人性與歷史根源。"
 description = "Polish nationalists in Wrocław protest against 'Germanization,' sparking debates on cultural identity. This article explores the human and historical roots of the conflict."
 keywords = ["Polish nationalism", "cultural identity", "Wrocław protests", "Germanization", "social conflict"]
