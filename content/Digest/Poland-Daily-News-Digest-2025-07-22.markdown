@@ -9,7 +9,7 @@ tags = ['波蘭', '2025', '貿易戰', 'AI革命', '能源危機', '社會影響
 # 波蘭每日新聞摘要：2025年7月22日
 
 ## 引子：波蘭的十字路口
-在貿易戰的陰影下，波蘭如同一艘航船，迎著AI革命與能源危機的巨浪前行。從巴爾的海岸的油氣寶藏到弗羅茨瓦夫的民生壓力，2025年的波蘭充滿危機與機遇。想知道這片土地如何在全球風暴中找到方向？立即收聽 <a href="https://aureagate.com/posts/220725-news-podcast/">波蘭新聞播客</a>！
+在貿易戰的陰影下，波蘭如同一艘航船，迎著AI革命與能源危機的巨浪前行。從巴爾的海岸的油氣寶藏到弗羅茨瓦夫的民生壓力，2025年的波蘭充滿危機與機遇。想知道這片土地如何在全球風暴中找到方向？立即收聽 <a href="https://aureagate.com/podcast/220725-news-podcast/">波蘭新聞播客</a>！
 
 ## 深度焦點
 
@@ -37,4 +37,4 @@ Google投資6500億茲羅提，與波蘭合作推動AI在能源與資安領域�
 - **弗羅茨瓦夫生存危機**：房租與物價暴漲，城市吸引力下降，人才流失風險上升 <a href="https://aureagate.com/posts/wroclaw-survival-crisis-citys-breath/">Wroclaw Survival Crisis: City’s Breath</a>。
 
 ## 結語：波蘭的未來在何方？
-從能源突破到貿易挑戰，波蘭站在全球變局的十字路口。這些故事背後隱藏著人性、決策與未來的線索。想深入探索？收聽 <a href="https://aureagate.com/posts/220725-news-podcast/">Poland News Podcast: July 2025</a>，一起揭開波蘭2025的真相！ #Poland2025
+從能源突破到貿易挑戰，波蘭站在全球變局的十字路口。這些故事背後隱藏著人性、決策與未來的線索。想深入探索？收聽 <a href="https://aureagate.com/podcast/220725-news-podcast/">Poland News Podcast: July 2025</a>，一起揭開波蘭2025的真相！ #Poland2025

@@ -9,7 +9,7 @@ tags = ['地緣政治', '能源', '科技', '稅收', '軍事']
 # 波蘭每日新聞摘要：2025年7月25日
 
 ## 引子
-在波羅的海的晨霧中，俄羅斯戰艦的陰影籠罩波蘭海岸，而海底的油氣資源正點燃一場國際爭奪戰。從印度的秘密交易到美國的AI豪賭，波蘭站在地緣政治與經濟的十字路口。這些新聞如何串聯起全球信任的裂痕？立即收聽<a href="https://aureagate.com/posts/250725-news-podcast/">Poland News Podcast: July 2025</a>，揭開背後的故事！
+在波羅的海的晨霧中，俄羅斯戰艦的陰影籠罩波蘭海岸，而海底的油氣資源正點燃一場國際爭奪戰。從印度的秘密交易到美國的AI豪賭，波蘭站在地緣政治與經濟的十字路口。這些新聞如何串聯起全球信任的裂痕？立即收聽<a href="https://aureagate.com/podcast/250725-news-podcast/">Poland News Podcast: July 2025</a>，揭開背後的故事！
 
 ## 深度焦點
 
@@ -37,4 +37,4 @@ tags = ['地緣政治', '能源', '科技', '稅收', '軍事']
 - 中歐峰會氣候承諾落空，綠色能源市場受挫，波蘭轉型承壓。<a href="https://aureagate.com/posts/beijings-climate-pledge-hope-and-disappointment-at-eu-china-summit/">詳情</a>
 
 ## 結語
-從俄羅斯的戰艦到波蘭的稅負危機，這些故事揭示了地緣政治與經濟的複雜交織。波蘭如何在風暴中找到立足點？立即收聽<a href="https://aureagate.com/posts/250725-news-podcast/">Poland News Podcast: July 2025</a>，深入探索信任崩解的時代，揭開全球博弈的真相！#PolandNews #Poland2025
+從俄羅斯的戰艦到波蘭的稅負危機，這些故事揭示了地緣政治與經濟的複雜交織。波蘭如何在風暴中找到立足點？立即收聽<a href="https://aureagate.com/podcast/250725-news-podcast/">Poland News Podcast: July 2025</a>，深入探索信任崩解的時代，揭開全球博弈的真相！#PolandNews #Poland2025

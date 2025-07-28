@@ -9,7 +9,7 @@ tags = ['科技', '財經', '地緣政治', '房地產', '航空', '每日摘要
 # 波蘭每日新聞摘要：2025年7月18日
 
 ## 引子
-華盛頓的會議室爭吵不休，台北的伺服器紅燈閃爍，倫敦的引擎試驗震耳欲聾。2025年，科技與財經的博弈席捲全球，波蘭也身陷其中。從比特幣的狂飆到晶片供應鏈的危機，這些故事如何重塑未來？收聽<a href="https://aureagate.com/posts/150725-news-podcast/">Poland News Podcast: July 2025</a>，揭開背後真相！
+華盛頓的會議室爭吵不休，台北的伺服器紅燈閃爍，倫敦的引擎試驗震耳欲聾。2025年，科技與財經的博弈席捲全球，波蘭也身陷其中。從比特幣的狂飆到晶片供應鏈的危機，這些故事如何重塑未來？收聽<a href="https://aureagate.com/podcast/150725-news-podcast/">Poland News Podcast: July 2025</a>，揭開背後真相！
 
 ## 深度焦點
 
@@ -39,7 +39,7 @@ tags = ['科技', '財經', '地緣政治', '房地產', '航空', '每日摘要
 - <a href="https://aureagate.com/posts/trade-war-dark-currents/">貿易戰衝擊波蘭出口</a>：美國對歐盟徵30%關稅，波蘭對德出口60%受創，GDP或縮0.2%（[未提供來源]）。
 
 ## 結語
-從晶片戰爭到房市危機，2025年的波蘭站在全球博弈的十字路口。科技與財經的浪潮如何影響你我的未來？收聽<a href="https://aureagate.com/posts/150725-news-podcast/">Poland News Podcast: July 2025</a>，深入這些故事，分享你的洞見！
+從晶片戰爭到房市危機，2025年的波蘭站在全球博弈的十字路口。科技與財經的浪潮如何影響你我的未來？收聽<a href="https://aureagate.com/podcast/150725-news-podcast/">Poland News Podcast: July 2025</a>，深入這些故事，分享你的洞見！
 
 
 **查核清單**

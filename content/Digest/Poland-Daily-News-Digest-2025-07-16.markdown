@@ -12,7 +12,7 @@ tags = ['波蘭新聞', '貿易戰', '網路安全', '勞動市場', '每日摘�
 ### 引子：危機與希望的交匯
 2025年的波蘭站在全球風暴的中心。從[<a href="https://aureagate.com/posts/trade-war-currents-us-eu-tariff-game/">貿易戰的暗流</a>]到[<a href="https://aureagate.com/posts/polands-space-dream-uznanskis-legacy/">太空夢的啟航</a>]，經濟挑戰與科技突破交織，揭示了這個國家的韌性與抉擇。
 
-今日播客 :從關稅風暴到太空夢，波蘭2025年挑戰與機遇並存。想深入了解？收聽[<a href="https://aureagate.com/posts/150725-news-podcast/">波蘭新聞播客</a>]，探索背後真相！
+今日播客 :從關稅風暴到太空夢，波蘭2025年挑戰與機遇並存。想深入了解？收聽[<a href="https://aureagate.com/podcast/150725-news-podcast/">波蘭新聞播客</a>]，探索背後真相！
 
 
 ### 深度焦點

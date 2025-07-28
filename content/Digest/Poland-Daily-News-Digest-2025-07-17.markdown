@@ -9,7 +9,7 @@ tags = ['波蘭', '新聞', '每日摘要', '當前事務']
 # 波蘭每日新聞摘要：2025年7月17日
 
 ## 引子
-在華沙的咖啡館，Joanna 翻閱新聞，銅價崩潰、AI 晶片博弈與比特幣的動盪映入眼簾。波蘭正處於全球風暴的中心，危機與機遇交織。想了解這場變革背後的故事？收聽 <a href="https://aureagate.com/posts/170725-news-podcast/">Poland News Podcast: July 2025</a>，揭開真相！
+在華沙的咖啡館，Joanna 翻閱新聞，銅價崩潰、AI 晶片博弈與比特幣的動盪映入眼簾。波蘭正處於全球風暴的中心，危機與機遇交織。想了解這場變革背後的故事？收聽 <a href="https://aureagate.com/podcast/170725-news-podcast/">Poland News Podcast: July 2025</a>，揭開真相！
 
 ## 深度焦點
 
@@ -39,4 +39,4 @@ NVIDIA 推出受限晶片重返中國，損失數十億美元，卻因地緣政�
 - 2026 年波蘭房地產稅激增，二手房交易量跌25%，價格卻上漲。<a href="https://aureagate.com/posts/2026-tax-burden-polands-property-tax-surge/">2026 Tax Burden: Poland’s Property Tax Surge</a>
 
 ## 結語
-從銅價危機到移民回歸，波蘭在動盪中尋找機遇，這些故事揭示人性與經濟的交錯。想深入了解？收聽 <a href="https://aureagate.com/posts/170725-news-podcast/">Poland News Podcast: July 2025</a>，探索波蘭的未來！
+從銅價危機到移民回歸，波蘭在動盪中尋找機遇，這些故事揭示人性與經濟的交錯。想深入了解？收聽 <a href="https://aureagate.com/podcast/170725-news-podcast/">Poland News Podcast: July 2025</a>，探索波蘭的未來！

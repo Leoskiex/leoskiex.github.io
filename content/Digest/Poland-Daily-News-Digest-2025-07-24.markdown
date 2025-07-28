@@ -9,7 +9,7 @@ tags = ['人工智能', '稅收政策', '晶片供應', '房地產市場', '科�
 # 波蘭每日新聞摘要：2025年7月24日
 
 ## 引子
-在克拉科夫的咖啡館，瑪塔翻閱新聞，AI 詐騙與新稅負的頭條讓她不安。波蘭正站在科技革命與社會裂痕的十字路口，危機與機遇並存。從晶片戰爭到房價狂熱，哪些力量在重塑這個國家？收聽 <a href="https://aureagate.com/posts/240725-news-podcast/">Poland News Podcast: July 2025</a>，探索背後的故事。
+在克拉科夫的咖啡館，瑪塔翻閱新聞，AI 詐騙與新稅負的頭條讓她不安。波蘭正站在科技革命與社會裂痕的十字路口，危機與機遇並存。從晶片戰爭到房價狂熱，哪些力量在重塑這個國家？收聽 <a href="https://aureagate.com/podcast/240725-news-podcast/">Poland News Podcast: July 2025</a>，探索背後的故事。
 
 ## 深度焦點
 
@@ -32,4 +32,4 @@ tags = ['人工智能', '稅收政策', '晶片供應', '房地產市場', '科�
 - **Callstack 輝煌退出**：波蘭科技公司 Callstack 以 5 億茲羅提被收購，創始人轉向公益，標誌波蘭科技崛起 [Callstack Triumphant Exit: Polish Tech Rise](https://aureagate.com/posts/callstack-triumphant-exit-polish-tech-rise/)。
 
 ## 結語
-從 AI 詐騙到稅負危機，波蘭正航行在科技與社會的驚濤駭浪中。這些故事揭示了繁榮與挑戰的交織，影響每個人的未來。想深入了解？收聽 <a href="https://aureagate.com/posts/240725-news-podcast/">Poland News Podcast: July 2025</a>，加入 #Poland2025 的討論！
+從 AI 詐騙到稅負危機，波蘭正航行在科技與社會的驚濤駭浪中。這些故事揭示了繁榮與挑戰的交織，影響每個人的未來。想深入了解？收聽 <a href="https://aureagate.com/podcast/240725-news-podcast/">Poland News Podcast: July 2025</a>，加入 #Poland2025 的討論！
