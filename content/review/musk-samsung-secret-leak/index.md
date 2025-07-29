@@ -1,7 +1,7 @@
 +++
 # 基本元數據
 title = "Musk的嘴與Samsung的秘密：科技戰場的意外一擊"
-date = "2025-07-29T00:12:00+02:00"
+date = "2025-07-29T00:14:00+02:00"
 tags = ["Elon Musk", "Samsung", "Tesla", "AI晶片", "科技競爭"]
 series = ["科技巨頭爭霸"]
 summary = "Elon Musk 意外洩露 Samsung 的 AI 晶片計畫，引發科技圈震盪。這場失誤背後是什麼？本文以幽默視角剖析 Musk 的行為與科技競爭的真相。"

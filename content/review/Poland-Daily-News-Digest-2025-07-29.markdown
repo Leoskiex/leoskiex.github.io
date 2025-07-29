@@ -1,7 +1,7 @@
 +++
 # 基本元數據
-title = "波蘭每日摘要：2025 七月 29 日"
-date = "2025-07-29T00:12:00+02:00"
+title = "波蘭每日新聞摘要：2025年7月29日"
+date = "2025-07-29T00:14:00+02:00"
 tags = ["波蘭", "經濟", "科技", "地緣政治", "AI"]
 summary = "從俄羅斯的無人機測試到 Musk 泄露 Samsung 秘密，探索 2025 年 7 月 28 日塑造波蘭及其周邊地區的危機與機遇。"
 description = "Daily news digest covering Russia's drone tests, Poland's speech arrests, AI privacy concerns, and more, with insights into economic and geopolitical impacts."
