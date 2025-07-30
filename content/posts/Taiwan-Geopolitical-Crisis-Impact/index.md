@@ -33,7 +33,7 @@ image = "https://aureagate.com/images/taiwan-geopolitics.jpg"
 headline = "台灣：地緣政治的風暴中心與戰爭陰影"
 image = ["https://aureagate.com/images/taiwan-geopolitics.jpg"]
 datePublished = "2025-07-30T11:54:00+02:00"
-author = { "@type" = "Organization", "name wasm="AureaGate 團隊" }
+author = { "@type" = "Organization", "name" = "AureaGate 團隊" }
 publisher = { "@type" = "Organization", "name" = "AureaGate", "logo" = { "@type" = "ImageObject", "url" = "https://aureagate.com/logo.png" } }
 description = "台灣面臨地緣政治風暴與潛在戰爭風險，本文探討其戰略挑戰與人性代價。"
 mainEntityOfPage = "https://aureagate.com/taiwan-geopolitical-risks"
