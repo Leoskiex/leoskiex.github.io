@@ -66,7 +66,6 @@ NVIDIA的H20晶片重返中國，滿足AI熱潮，卻因美國政策鬆動引發
 
 - <a href="https://aureagate.com/posts/glogow-violence-racial-and-social-divides/">格沃古夫暴力：種族與社會裂縫</a>：移民餐廳老闆遭持刀襲擊，暴露波蘭種族緊張，需政策促進融合。
 - <a href="https://aureagate.com/posts/poland-housing-market-choices-behind-trends/">波蘭房市趨勢：選擇的背後</a>：公寓供應增加，購房者更謹慎，房市穩定但價格壓力持續。
-- <a href="https://aureagate.com/posts/poland-and-global-news-analysis/">波蘭與全球新聞分析</a>：2025年波蘭面臨經濟、社會與地緣政治多重挑戰，需靈活應對。
 
 ## 結語
 2025年的波蘭站在全球風暴的中心，從房市崩潰到核武回歸，每個故事都在重塑未來。想了解更多幕後洞見？<a href="https://aureagate.com/podcast/310725-news-podcast/">Poland News Podcast: July 2025</a>帶你深入分析，訂閱不錯過任何關鍵動態！
