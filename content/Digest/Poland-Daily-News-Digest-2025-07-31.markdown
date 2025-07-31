@@ -1,7 +1,6 @@
-
 +++
 title = "波蘭每日新聞摘要：2025年7月31日"
-date = "2025-07-31T22:06:00+02:00"
+date = "2025-07-31T00:06:00+02:00"
 tags = ["Poland", "economy", "geopolitics", "technology", "society"]
 summary = "從 HRE 崩潰到英國核武，探索波蘭在 2025 年經濟、科技和地緣政治衝擊中的角色。"
 description = "Daily digest covering Poland’s housing crisis, AI job impacts, NATO nuclear shifts, and global tech tensions, with insights for 2025."
