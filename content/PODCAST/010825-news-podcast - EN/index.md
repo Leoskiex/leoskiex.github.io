@@ -1,10 +1,10 @@
 ---
-title: 'August 1, 2025 | AureaGate Express | Trump's Gamble at Europe's Poker Table: How Chips, Minerals, and Housing are Reshaping the Global Game'
-date : '2025-08-01T00:04:00+02:00'
+title: "August 1, 2025 | AureaGate Express | Trumps Gamble at Europe's Poker Table: How Chips, Minerals, and Housing are Reshaping the Global Game"
+date: '2025-08-01T00:04:00+02:00'
 showRelatedContent: false
 draft: false
 categories : ["Podcast"]
-tags : ['播客','快訊']
+tags: ['podcast','news']
 ---
 {{< spotify "https://open.spotify.com/embed/episode/0i5ZAOMZorca8Et4DQakVj?utm_source=generator&theme=0" >}}
 
