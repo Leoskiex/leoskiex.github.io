@@ -3,7 +3,7 @@
 title = "波蘭日報摘要 2025年8月1日 "
 date = "2025-08-01T12:26:00+02:00"
 tags = ["Poland", "global economy", "geopolitics", "real estate", "technology"]
-category = ["每日摘要"]
+categories = ["每日摘要"]
 summary = "2025年8月1日，波蘭在貿易戰、戰爭與科技競賽中崛起。從川普關稅到基輔空襲，探索五大新聞與全球脈動。"
 description = "Poland navigates trade wars, conflicts, and tech races on August 1, 2025. From Trump’s tariffs to Kyiv’s airstrikes, dive into five key stories."
 keywords = ["Poland news", "global trade", "geopolitics", "real estate market", "AI technology"]
